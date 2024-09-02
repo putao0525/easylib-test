@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/easy_lib"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/easy_lib.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/easy_lib-complete.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-build.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-configure.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-download.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-install.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-mkdir.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-patch.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"easy_lib"
+		],
+		"name" : "easy_lib"
+	}
+}

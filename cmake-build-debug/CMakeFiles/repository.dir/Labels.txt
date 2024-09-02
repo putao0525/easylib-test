@@ -1,0 +1,13 @@
+# Target labels
+ repository
+# Source files and their labels
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/repository
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/repository.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/repository-complete.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-build.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-configure.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-download.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-install.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-mkdir.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-patch.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-update.rule

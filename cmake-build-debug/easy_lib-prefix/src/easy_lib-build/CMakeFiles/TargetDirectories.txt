@@ -1,0 +1,3 @@
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-build/CMakeFiles/easy_lib.dir
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-build/CMakeFiles/edit_cache.dir
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-build/CMakeFiles/rebuild_cache.dir

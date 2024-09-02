@@ -1,0 +1,13 @@
+# Target labels
+ easy_lib
+# Source files and their labels
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/easy_lib
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/easy_lib.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/easy_lib-complete.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-build.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-configure.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-download.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-install.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-mkdir.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-patch.rule
+/Users/putao/code/test/c/esaylib-test/cmake-build-debug/easy_lib-prefix/src/easy_lib-stamp/easy_lib-update.rule

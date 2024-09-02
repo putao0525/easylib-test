@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/repository"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/repository.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/CMakeFiles/repository-complete.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-build.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-configure.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-download.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-install.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-mkdir.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-patch.rule"
+		},
+		{
+			"file" : "/Users/putao/code/test/c/esaylib-test/cmake-build-debug/repository-prefix/src/repository-stamp/repository-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"repository"
+		],
+		"name" : "repository"
+	}
+}
